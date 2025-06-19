@@ -12,6 +12,7 @@ public class RechangeSimulation {
 
         System.out.print("Emter Your name: ");
         String name = sc.nextLine();
+        System.out.println("Hello " + name + " Welcome To My Phone Recharge Portal...");
         System.out.println();
 
         while (true) {
